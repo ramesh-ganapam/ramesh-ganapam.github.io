@@ -5,7 +5,7 @@ You can find the LIVE Website [here](https://ramesh-ganapam.github.io/).
 
 This template has been made from scratch taking in consideration some details from Beautiful Jekyll templates.
 
-Reach me @ [n.mesegueriborra@um.es](mailto:ramesh.ganapam@ku.edu).
+Reach me @ [ramesh.ganapam@ku.edu].
 
 License
 -------
